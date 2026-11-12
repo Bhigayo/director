@@ -1,0 +1,1 @@
+{"root":["./src/Frame.tsx","./src/Settings.tsx","./src/ShootMode.tsx","./src/ShootPage.tsx","./src/Shoots.tsx","./src/ai.ts","./src/app.tsx","./src/db.ts","./src/image.ts","./src/library.ts","./src/main.tsx","./src/model.ts","./src/places.ts","./src/plan.test.ts","./src/sun.ts","./src/ui.tsx"],"version":"6.0.3"}
